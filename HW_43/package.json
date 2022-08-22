@@ -1,0 +1,23 @@
+{
+  "name": "react_intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "hw_43"
+  },
+  "author": "Andrey Gurenko",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "eslint": "^8.22.0",
+    "eslint-plugin-react": "^7.30.1",
+    "prettier": "^2.7.1"
+  }
+}
